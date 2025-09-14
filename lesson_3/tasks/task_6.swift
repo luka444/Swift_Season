@@ -1,4 +1,4 @@
-// Task 6: create num day values(monday...sunday) and print sunday.
+// Task 6: create enum day values(monday...sunday) and print sunday.
 
 enum Day {
     case Monday
